@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arjun Krishnan P.S</h1>
 
-<h3 align="center">Full Stack Developer (Django) • MERN Learner • Python Developer</h3>
+<h3 align="center">Diploma in comouter hadware engineering • Python Learner • MERN Learner</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=axxor06&label=Profile%20Views&color=0e75b6&style=flat" />
@@ -13,7 +13,7 @@
 - 🎓 Diploma in Computer Hardware Engineering  
 - 🏫 Government Polytechnic College, Palakkad  
 - 💻 Full Stack Developer (Django + Python)  
-- 🌱 Learning MERN Stack & AI Integration  
+- 🌱 Learning MERN Stack, Python(Django) & AI Integration  
 - 🚀 Building real-world web applications  
 - 📍 Kerala, India  
 
