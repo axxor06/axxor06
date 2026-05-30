@@ -1,38 +1,45 @@
-# <h1 align="center">Hi 👋, I'm Arjun Krishnan P.S</h1>
-
-<h3 align="center">Aspiring Full Stack Developer | Django Developer | Future MERN Stack Engineer 🚀</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Hey+👋+I'm+Arjun+Krishnan+P.S;Aspiring+Full+Stack+Developer;Django+Developer+%7C+Future+MERN+Engineer;Building+Real-World+Projects;Learning+AI+Integration+🤖" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+in+Progress;Django+%7C+Python+%7C+JavaScript;Building+Real-World+Projects;Learning+MERN+Stack+%26+AI+Integration;Code+%E2%86%92+Build+%E2%86%92+Learn+%E2%86%92+Repeat" />
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%">
 </p>
 
+<h3 align="center">
+🚀 Aspiring Full Stack Developer | Django Developer | MERN Stack Learner
+</h3>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=axxor06&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=axxor06&label=PROFILE+VIEWS&color=00d9ff&style=for-the-badge"/>
 </p>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
+
+<img align="right" width="350" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif">
 
 🎓 Diploma in Computer Hardware Engineering
+
 🏫 Government Polytechnic College, Palakkad
 
-💻 Passionate Full Stack Developer focused on building scalable web applications
+💻 Passionate Full Stack Developer focused on creating modern and scalable web applications
 
-🌱 Currently Learning:
-
-* MERN Stack Development
-* REST APIs
-* AI Integration in Web Applications
-* Modern Frontend Technologies
-
-🚀 Currently Working On:
+🚀 Currently Building:
 
 * Smart Placement Portal System
 * Resume Builder Web Application
 * Advanced Django Projects
 
-📍 Kerala, India
+🌱 Currently Learning:
+
+* MERN Stack Development
+* REST API Development
+* AI Integration in Web Applications
+* React.js & Modern Frontend Development
+
+📍 Palakkad, Kerala, India
 
 ⚡ Fun Fact:
 
@@ -40,51 +47,49 @@
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c&theme=dark"/>
 </p>
 
 ### Frameworks & Libraries
 
-<p>
-<img src="https://skillicons.dev/icons?i=django,bootstrap" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=django,bootstrap&theme=dark"/>
 </p>
 
 ### Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark"/>
 </p>
 
 ### Tools & Platforms
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
 </p>
-
-<img src="https://img.shields.io/badge/PythonAnywhere-1D9FD7?style=for-the-badge" />
 
 ---
 
 # 🚀 Featured Projects
 
-## 🏢 Smart Placement Portal System (Major Project)
+## 🏢 Smart Placement Portal System
 
-A comprehensive placement management platform developed using Django.
+A complete placement management platform built using Django.
 
-### Key Features
+### Features
 
 ✅ Student Registration & Profile Management
 
 ✅ Resume Upload & Job Applications
 
-✅ Company Job Posting Portal
+✅ Company Recruitment Dashboard
 
-✅ Applicant Shortlisting & Review System
+✅ Applicant Review & Shortlisting
 
 ✅ Role-Based Authentication
 
@@ -94,29 +99,27 @@ A comprehensive placement management platform developed using Django.
 
 ### Tech Stack
 
-`Django` • `Python` • `Bootstrap` • `SQLite` • `PDF Generation`
+`Django` • `Python` • `Bootstrap` • `SQLite`
 
 ---
 
 ## 📝 Resume Builder Web App
 
-A smart resume generation system deployed on PythonAnywhere.
+A professional resume generation platform deployed on PythonAnywhere.
 
-### Key Features
+### Features
 
 ✅ User Registration & Authentication
 
 ✅ Resume Creation & Management
 
-✅ Education, Skills & Experience Sections
+✅ Multiple Resume Templates
 
 ✅ Profile Photo Upload
 
-✅ Multiple Resume Templates
+✅ Resume Editing & Updates
 
-✅ Edit Existing Resumes
-
-✅ PDF Resume Download
+✅ PDF Download Support
 
 ### Tech Stack
 
@@ -124,21 +127,21 @@ A smart resume generation system deployed on PythonAnywhere.
 
 ---
 
-## 🍽️ STAR Catering Website
+## 🍽 STAR Catering Website
 
-A responsive frontend website developed for learning modern web development fundamentals.
+A responsive frontend project developed for learning web technologies.
 
-### Key Features
+### Features
 
 ✅ Responsive Design
 
-✅ Interactive Navigation
+✅ Interactive User Interface
 
 ✅ Image & Video Gallery
 
 ✅ Contact Form
 
-✅ UI Animations
+✅ Smooth Animations
 
 ### Tech Stack
 
@@ -150,9 +153,9 @@ A responsive frontend website developed for learning modern web development fund
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=axxor06&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=axxor06&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axxor06&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axxor06&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -160,27 +163,35 @@ A responsive frontend website developed for learning modern web development fund
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=axxor06&theme=tokyonight&hide_border=true"/>
 </p>
 
+---
+
+# 🏆 GitHub Trophies
+
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=axxor06&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=axxor06&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
 
-# 🎯 2026 Goals
-
-* 🚀 Master MERN Stack Development
-* 🤖 Learn AI-Powered Web Application Development
-* 🏗️ Build Production-Ready Django + React Projects
-* ☁️ Learn Cloud Deployment & DevOps Basics
-* 💼 Secure a Full Stack Developer Role
-
----
-
-# 📈 Contribution Activity
+# 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=axxor06&theme=tokyo-night"/>
 </p>
+
+---
+
+# 🎯 Current Goals
+
+🚀 Master Full Stack MERN Development
+
+🤖 Learn AI Integration in Web Applications
+
+⚛️ Build Production-Ready Django + React Projects
+
+☁️ Learn Cloud Deployment & DevOps Fundamentals
+
+💼 Start My Career as a Full Stack Developer
 
 ---
 
@@ -189,27 +200,55 @@ A responsive frontend website developed for learning modern web development fund
 <p align="center">
 
 <a href="https://github.com/axxor06">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://in.linkedin.com/in/arjun-krishnan-p-s-308ba2365">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:arjunkrishnanps6@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/917902967717">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
+# 🔥 Coding Profiles
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/MERN-3C873A?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 💡 Developer Philosophy
+
+<div align="center">
+
+### ⚡ Code → Build → Break → Fix → Learn → Repeat ⚡
+
+</div>
+
+---
+
 <h3 align="center">
-
-💡 "Code → Build → Break → Fix → Learn → Repeat"
-
+⭐ Thanks for Visiting My Profile ⭐
 </h3>
 
 <h4 align="center">
-Thanks for visiting my profile! ⭐
+🚀 Always Learning • Always Building • Always Improving 🚀
 </h4>
