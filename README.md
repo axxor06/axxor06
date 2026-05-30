@@ -22,41 +22,47 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,django,bootstrap,mysql,sqlite,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,django,bootstrap,mysql,sqlite,git,github,vscode&theme=dark" />
 </p>
 
 ---
 
 ## 🚀 Projects
 
-### 🏢 Smart Placement Portal
-Django-based placement management system  
-**Tech:** Django • Python • SQLite • Bootstrap  
+### 🏢 Smart Placement Portal System
+Django-based placement management system.
+
+**Tech Stack:** Django • Python • SQLite • Bootstrap
 
 ---
 
-### 📝 Resume Builder App
-Web app for generating resumes with PDF export  
-**Tech:** Django • Python • xhtml2pdf  
+### 📝 Resume Builder Web App
+Web app for generating resumes with PDF export.
+
+**Tech Stack:** Django • Python • xhtml2pdf • SQLite
 
 ---
 
 ### 🍽 STAR Catering Website
-Responsive frontend website  
-**Tech:** HTML • CSS • JavaScript  
+Responsive frontend website.
+
+**Tech Stack:** HTML • CSS • JavaScript
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=axxor06&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axxor06&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=axxor06&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axxor06&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -80,6 +86,12 @@ Responsive frontend website
 
 ---
 
+## 💡 Developer Mindset
+
 <p align="center">
-<b>Code • Build • Learn • Repeat</b>
+<b>Code • Build • Learn • Improve • Repeat</b>
 </p>
+
+---
+
+<h3 align="center">⭐ Thanks for Visiting My Profile ⭐</h3>
