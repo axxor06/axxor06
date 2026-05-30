@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arjun Krishnan P.S</h1>
 
-<h3 align="center">Diploma in comouter hadware engineering • Python Learner • MERN Learner</h3>
+<h3 align="center">Diploma in computer hadware engineering • Python Learner • MERN Learner</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=axxor06&label=Profile%20Views&color=0e75b6&style=flat" />
