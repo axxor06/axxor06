@@ -1,30 +1,26 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Hey+👋+I'm+Arjun+Krishnan+P.S;Aspiring+Full+Stack+Developer;Django+Developer+%7C+Future+MERN+Engineer;Building+Real-World+Projects;Learning+AI+Integration+🤖" />
-</h1>
-
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%">
-</p>
+<h1 align="center">Hi 👋, I'm Arjun Krishnan P.S</h1>
 
 <h3 align="center">
-🚀 Aspiring Full Stack Developer | Django Developer | MERN Stack Learner
+Full Stack Developer (Django) • MERN Stack Learner • Python Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=axxor06&label=PROFILE+VIEWS&color=00d9ff&style=for-the-badge"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Full+Stack+Developer;Django+Developer;Learning+MERN+Stack;Building+Real-World+Projects;Future+AI+Integrated+Web+Developer" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=axxor06&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-# 💫 About Me
-
-<img align="right" width="350" src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif">
+## 👨‍💻 About Me
 
 🎓 Diploma in Computer Hardware Engineering
 
 🏫 Government Polytechnic College, Palakkad
 
-💻 Passionate Full Stack Developer focused on creating modern and scalable web applications
+💻 Passionate Full Stack Developer focused on building practical web applications
 
 🚀 Currently Building:
 
@@ -35,11 +31,11 @@
 🌱 Currently Learning:
 
 * MERN Stack Development
-* REST API Development
+* React.js
+* REST APIs
 * AI Integration in Web Applications
-* React.js & Modern Frontend Development
 
-📍 Palakkad, Kerala, India
+📍 Kerala, India
 
 ⚡ Fun Fact:
 
@@ -47,208 +43,155 @@
 
 ---
 
-# 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c&theme=dark" />
 </p>
 
 ### Frameworks & Libraries
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=django,bootstrap&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=django,bootstrap,react,nodejs&theme=dark" />
 </p>
 
 ### Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" />
 </p>
 
 ### Tools & Platforms
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🏢 Smart Placement Portal System
+### 🏢 Smart Placement Portal System
 
-A complete placement management platform built using Django.
+A full-stack Django web application for college placement management.
 
-### Features
+#### Features
 
-✅ Student Registration & Profile Management
+* 👨‍🎓 Student Registration & Profile Management
+* 📄 Resume Upload & Job Applications
+* 🏢 Company Recruitment Dashboard
+* ✅ Applicant Review & Shortlisting
+* 🔐 Role-Based Authentication
+* 🛡️ Administrative Dashboard
+* 📥 Resume Generation & PDF Download
 
-✅ Resume Upload & Job Applications
-
-✅ Company Recruitment Dashboard
-
-✅ Applicant Review & Shortlisting
-
-✅ Role-Based Authentication
-
-✅ Administrative Dashboard
-
-✅ Resume Generation & PDF Export
-
-### Tech Stack
-
-`Django` • `Python` • `Bootstrap` • `SQLite`
+**Tech Stack:** Django • Python • Bootstrap • SQLite
 
 ---
 
-## 📝 Resume Builder Web App
+### 📝 Resume Builder Web App
 
-A professional resume generation platform deployed on PythonAnywhere.
+Professional resume generation platform with PDF export.
 
-### Features
+#### Features
 
-✅ User Registration & Authentication
+* 👤 User Authentication
+* 🎨 Multiple Resume Templates
+* 📷 Profile Photo Upload
+* ✏️ Resume Editing
+* 📄 PDF Download
+* 💾 Database Integration
 
-✅ Resume Creation & Management
-
-✅ Multiple Resume Templates
-
-✅ Profile Photo Upload
-
-✅ Resume Editing & Updates
-
-✅ PDF Download Support
-
-### Tech Stack
-
-`Django` • `Python` • `Bootstrap` • `SQLite` • `xhtml2pdf`
+**Tech Stack:** Django • Python • SQLite • Bootstrap • xhtml2pdf
 
 ---
 
-## 🍽 STAR Catering Website
+### 🍽️ STAR Catering Website
 
-A responsive frontend project developed for learning web technologies.
+Responsive frontend project created for learning web technologies.
 
-### Features
+#### Features
 
-✅ Responsive Design
+* 📱 Responsive Design
+* 🖼️ Gallery Section
+* 📩 Contact Form
+* ✨ Interactive UI
+* 🎯 Smooth Animations
 
-✅ Interactive User Interface
-
-✅ Image & Video Gallery
-
-✅ Contact Form
-
-✅ Smooth Animations
-
-### Tech Stack
-
-`HTML` • `CSS` • `JavaScript`
+**Tech Stack:** HTML • CSS • JavaScript
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=axxor06&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=axxor06&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axxor06&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=axxor06&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=axxor06&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=axxor06&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=axxor06&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=axxor06&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 🎯 Current Goals
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=axxor06&theme=tokyo-night"/>
-</p>
-
----
-
-# 🎯 Current Goals
-
-🚀 Master Full Stack MERN Development
-
-🤖 Learn AI Integration in Web Applications
-
-⚛️ Build Production-Ready Django + React Projects
-
-☁️ Learn Cloud Deployment & DevOps Fundamentals
-
-💼 Start My Career as a Full Stack Developer
+* 🚀 Master Full Stack MERN Development
+* 🤖 Learn AI Integration in Web Applications
+* ⚛️ Build Django + React Projects
+* ☁️ Learn Cloud Deployment
+* 💼 Start Career as a Full Stack Developer
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://github.com/axxor06">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://in.linkedin.com/in/arjun-krishnan-p-s-308ba2365">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:arjunkrishnanps6@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://wa.me/917902967717">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 </p>
 
 ---
 
-# 🔥 Coding Profiles
+## 💡 Developer Philosophy
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/MERN-3C873A?style=for-the-badge"/>
+### Code → Build → Break → Fix → Learn → Repeat 🚀
 
 </p>
 
 ---
 
-# 💡 Developer Philosophy
+<h3 align="center">⭐ Thanks for Visiting My Profile ⭐</h3>
 
-<div align="center">
-
-### ⚡ Code → Build → Break → Fix → Learn → Repeat ⚡
-
-</div>
-
----
-
-<h3 align="center">
-⭐ Thanks for Visiting My Profile ⭐
-</h3>
-
-<h4 align="center">
-🚀 Always Learning • Always Building • Always Improving 🚀
-</h4>
+<h4 align="center">Always Learning • Always Building • Always Improving</h4>
