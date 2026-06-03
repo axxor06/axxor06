@@ -117,6 +117,16 @@ A responsive business website built for modern user experience.
 
 ---
 
+## 🌍 Portfolio Website
+
+<p align="center">
+  <a href="https://arjunkrishnanps.pythonanywhere.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ## 🎯 Current Focus
 
 ✔ Strengthening Django backend development  
